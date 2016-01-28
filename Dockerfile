@@ -1,5 +1,5 @@
 FROM alpine:3.3
-MAINTAINER Sebastian Marr <marr@spreadshirt.net>
+MAINTAINER Sebastian Marr <mail@sebastianmarr.de>
 
 ENV RUBY_MAJOR 2.3
 ENV RUBY_VERSION 2.3.0
