@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:3.4
 MAINTAINER Sebastian Marr <mail@sebastianmarr.de>
 
 ENV RUBY_MAJOR 2.3
